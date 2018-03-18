@@ -1,2 +1,2 @@
-# SquirelVania
+# SquirrelVania
 The squirrel platformer
